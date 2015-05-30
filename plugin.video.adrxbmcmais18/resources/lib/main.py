@@ -83,8 +83,8 @@ def revistas(offset):
 		dialog.ok("Error!","PDF Reader not found.","Please install it.")
 		return
 		
-	#http://www.mediafire.com/folder/uyf3rp6l2m141
-	id = 'uyf3rp6l2m141'
+	#https://www.mediafire.com/folder/wj2danwjkauma 
+	id = 'wj2danwjkauma'
 	
 	#folders_url='http://www.mediafire.com/api/folder/get_content.php?folder_key='+id+'&chunk=1&content_type=folders&response_format=json&rand=1789'
 	#files_url='http://www.mediafire.com/api/folder/get_content.php?r=srhp&content_type=files&filter=all&order_by=name&order_direction=asc&chunk=1&version=2&folder_key='+id+'&response_format=json'
